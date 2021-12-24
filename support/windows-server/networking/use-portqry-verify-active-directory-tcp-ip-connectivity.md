@@ -22,7 +22,7 @@ _Original KB number:_ &nbsp; 816103
 
 ## Introduction  
 
-PortQry is a command-line utility that you can use to troubleshoot TCP/IP connectivity used by Windows components and features. The utility reports the port status of Transition Control Protocol (TCP) and User Datagram Protocol (UDP) ports on a remote computer. You can run PortQry to test network connectivity for any Windows component or scenario on any version of Windows.
+PortQry is a command-line utility that you can use to troubleshoot TCP/IP connectivity used by Windows components and features. The utility reports the port status of Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) ports on a remote computer. You can run PortQry to test network connectivity for any Windows component or scenario on any version of Windows.
 
 This article describes how to use portqry to verify basic TCP/IP connectivity for Active Directory and Active Directory related components including:
 
